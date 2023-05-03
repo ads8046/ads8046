@@ -15,7 +15,10 @@ Curious Full-Stack Engineer | Crafting Scalable Solutions with a Passion for Tec
 - Cloud ML Technologies
 - Practicing Inverting Binary Trees
 
+💼 Work Experience
 
+- Solutions Architect Intern - Product and Technology, Accolade, Inc., Seattle, WA (June 2021 - May 2022)
+- Software Engineer Intern, Mindex Technologies, Inc., Rochester, NY (May 2020 - Aug 2020)
 
 <!---
 ads8046/ads8046 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

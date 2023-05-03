@@ -1,9 +1,21 @@
-- 👋 Hi, I’m Atharva Shivankar. I am a SWE major at Rochester Institute of Technology.
-- 👀 I’m interested in full-stack web development, AI/ML and cloud computing technologies.
-- ☁️ I am an AWS Certified Solutions Architect - Associate.
-- 🌱 I’m currently learning more about machine learning.
-- Learn more about me: https://www.atharvashivankar.com/
-- 📫 Reach me at atharva82@gmail.com or ads8046@g.rit.edu
+Curious Full-Stack Engineer | Crafting Scalable Solutions with a Passion for Technology and Improving Lives
+
+🎓 Education
+
+- Rochester Institute of Technology, Rochester, NY
+- Bachelor of Science, Software Engineering
+- 2x AWS Certified | Solutions Architect Associate | Cloud Practitioner
+- Minor: French
+
+🚀 Currently Exploring
+
+- Artificial Intelligence, ML and NLP
+- Web Application Development with React
+- Large Language Model and their APIs
+- Cloud ML Technologies
+- Practicing Inverting Binary Trees
+
+
 
 <!---
 ads8046/ads8046 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@ Curious Full-Stack Engineer | Crafting Scalable Solutions with a Passion for Tec
 
 - Rochester Institute of Technology, Rochester, NY
 - Bachelor of Science, Software Engineering
-- 2x AWS Certified | Solutions Architect Associate | Cloud Practitioner
+- 2x AWS Certified | Solutions Architect - Associate | Cloud Practitioner
 - Minor: French
 
 🚀 Currently Exploring

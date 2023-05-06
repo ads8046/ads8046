@@ -11,8 +11,7 @@ Curious Full-Stack Engineer | Crafting Scalable Solutions with a Passion for Tec
 
 - Artificial Intelligence, ML and NLP
 - Web Application Development with React
-- Large Language Model and their APIs
-- Cloud ML Technologies
+- Cloud Technologies
 - Practicing Inverting Binary Trees
 
 💼 Work Experience

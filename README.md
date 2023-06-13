@@ -1,4 +1,4 @@
-Curious Full-Stack Engineer | Crafting Scalable Solutions with a Passion for Technology and Improving Lives
+Curious Full-Stack Engineer | Crafting Scalable Solutions with a Passion for Technology and Impacting Communities
 
 🎓 Education
 

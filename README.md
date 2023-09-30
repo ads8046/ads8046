@@ -16,6 +16,7 @@ Curious Full-Stack Engineer | Crafting Scalable Solutions with a Passion for Tec
 
 💼 Work Experience
 
+- Data Analyst 1 - Growth Catalyst, Inc., Cambridge, MA
 - Solutions Architect Intern - Product and Technology, Accolade, Inc., Seattle, WA (June 2021 - May 2022)
 - Software Engineer Intern, Mindex Technologies, Inc., Rochester, NY (May 2020 - Aug 2020)
 

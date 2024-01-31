@@ -1,7 +1,7 @@
 Curious Full-Stack Engineer | Crafting Scalable Solutions with a Passion for Technology and Impacting Communities
 
 🎓 Education
-- Georgia Tech
+- Georgia Tech, Atlanta, GA
 - MS Computer Science - Machine Learning Specialization
 - Rochester Institute of Technology, Rochester, NY
 - BS, Software Engineering

@@ -1,9 +1,10 @@
 Curious Full-Stack Engineer | Crafting Scalable Solutions with a Passion for Technology and Impacting Communities
 
 🎓 Education
-
+- Georgia Tech
+- MS Computer Science - Machine Learning Specialization
 - Rochester Institute of Technology, Rochester, NY
-- Bachelor of Science, Software Engineering
+- BS, Software Engineering
 - 2x AWS Certified | Solutions Architect - Associate | Cloud Practitioner
 - Minor: French
 

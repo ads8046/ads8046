@@ -1,8 +1,7 @@
 I am a Software Engineer, CS Student, and a new open-source contributor. I love technology and nature ✨🍃
 
 # 💫 About Me:
-🎓 Education<br>MS Computer Science Candidate (ML Specialization), Georgia Institute of Technology 🐝<br>BS Software Engineering, Rochester Institute of Technology 🐅<br><br> 💼 Work Experience<br>Data Analyst 1 - Growth Catalysts, Inc., Cambridge, MA<br>Solutions Architect Intern - Product and Technology, Accolade, Inc., Seattle, WA<br>Software Engineer Intern, Mindex Technologies, Rochester, NY (May 2020 - Aug 2020)
-
+🎓 Education<br>MS Computer Science Candidate (ML Specialization), Georgia Institute of Technology 🐝<br>BS Software Engineering, Rochester Institute of Technology 🐅<br><br> 💼 Work Experience<br>Data Analyst 1 - Growth Catalysts, Inc., Cambridge, MA<br>Solutions Architect Intern - Product and Technology, Accolade, Inc., Seattle, WA<br>Software Engineer Intern, Mindex Technologies, Rochester, NY
 ## 🌐 Connect with me, I am happy to help!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-shivankar) 
 

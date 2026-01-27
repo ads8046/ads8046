@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I am a Software Engineer, CS graduate student, and a new open-source contributor based in Toronto, Canada. I love technology and nature ✨🍃<br><br>
+I am a Software Engineer, CS grad student, and a new open-source contributor based in Toronto, Canada. I am tech and Linux enthusiast and an avid chess player. <br><br>
 🎓 Education<br>MS Computer Science Candidate (ML Specialization), Georgia Institute of Technology 🐝<br>BS Software Engineering, Rochester Institute of Technology 🐅<br><br> 💼 Work Experience<br>Junior Full-Stack Developer - Growth Catalysts, Inc., Cambridge, MA<br>Solutions Architect Intern - Product and Technology, Accolade, Inc., Seattle, WA<br>Software Engineer Intern, Mindex Technologies, Rochester, NY
 
 **AWS Certified Solutions Architect - Associate ☁️**
